@@ -1,1 +1,1 @@
- ⚡️ [![Simplefolio](https://github.com/cobidev/simplefolio)]
+ ⚡️ [Simplefolio](https://github.com/cobidev/simplefolio)
